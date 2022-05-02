@@ -1,0 +1,110 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Integrator/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Integrator.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Integrator.dll": {}
+        }
+      },
+      "SpinnerSim/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Integrator": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SpinnerSim.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SpinnerSim.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Integrator/1.0.0": {
+      "type": "project",
+      "path": "../Integrator/Integrator.csproj",
+      "msbuildProject": "../Integrator/Integrator.csproj"
+    },
+    "SpinnerSim/1.0.0": {
+      "type": "project",
+      "path": "../SpinnerSim/SpinnerSim.csproj",
+      "msbuildProject": "../SpinnerSim/SpinnerSim.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Integrator >= 1.0.0",
+      "SpinnerSim >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\qn171\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\qn171\\documents\\mee484\\testspinner\\spinnerui\\SpinnerUI.csproj",
+      "projectName": "SpinnerUI",
+      "projectPath": "C:\\Users\\qn171\\documents\\mee484\\testspinner\\spinnerui\\SpinnerUI.csproj",
+      "packagesPath": "C:\\Users\\qn171\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\qn171\\documents\\mee484\\testspinner\\spinnerui\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\qn171\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\qn171\\documents\\mee484\\testspinner\\Integrator\\Integrator.csproj": {
+              "projectPath": "C:\\Users\\qn171\\documents\\mee484\\testspinner\\Integrator\\Integrator.csproj"
+            },
+            "C:\\Users\\qn171\\documents\\mee484\\testspinner\\SpinnerSim\\SpinnerSim.csproj": {
+              "projectPath": "C:\\Users\\qn171\\documents\\mee484\\testspinner\\SpinnerSim\\SpinnerSim.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

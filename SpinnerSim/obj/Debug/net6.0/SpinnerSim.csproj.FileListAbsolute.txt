@@ -1,0 +1,15 @@
+C:\Users\qn171\documents\MEE484\testspinner\SpinnerSim\obj\Debug\net6.0\SpinnerSim.csproj.AssemblyReference.cache
+C:\Users\qn171\documents\MEE484\testspinner\SpinnerSim\obj\Debug\net6.0\SpinnerSim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qn171\documents\MEE484\testspinner\SpinnerSim\obj\Debug\net6.0\SpinnerSim.AssemblyInfoInputs.cache
+C:\Users\qn171\documents\MEE484\testspinner\SpinnerSim\obj\Debug\net6.0\SpinnerSim.AssemblyInfo.cs
+C:\Users\qn171\documents\MEE484\testspinner\SpinnerSim\obj\Debug\net6.0\SpinnerSim.csproj.CoreCompileInputs.cache
+C:\Users\qn171\documents\MEE484\testspinner\SpinnerSim\bin\Debug\net6.0\SpinnerSim.deps.json
+C:\Users\qn171\documents\MEE484\testspinner\SpinnerSim\bin\Debug\net6.0\SpinnerSim.dll
+C:\Users\qn171\documents\MEE484\testspinner\SpinnerSim\bin\Debug\net6.0\ref\SpinnerSim.dll
+C:\Users\qn171\documents\MEE484\testspinner\SpinnerSim\bin\Debug\net6.0\SpinnerSim.pdb
+C:\Users\qn171\documents\MEE484\testspinner\SpinnerSim\obj\Debug\net6.0\SpinnerSim.dll
+C:\Users\qn171\documents\MEE484\testspinner\SpinnerSim\obj\Debug\net6.0\ref\SpinnerSim.dll
+C:\Users\qn171\documents\MEE484\testspinner\SpinnerSim\obj\Debug\net6.0\SpinnerSim.pdb
+C:\Users\qn171\documents\mee484\testspinner\SpinnerSim\bin\Debug\net6.0\Integrator.dll
+C:\Users\qn171\documents\mee484\testspinner\SpinnerSim\bin\Debug\net6.0\Integrator.pdb
+C:\Users\qn171\documents\mee484\testspinner\SpinnerSim\obj\Debug\net6.0\SpinnerSim.csproj.CopyComplete

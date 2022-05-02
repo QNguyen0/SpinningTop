@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SpinnerUI/1.0.0": {
+        "dependencies": {
+          "Integrator": "1.0.0",
+          "SpinnerSim": "1.0.0"
+        },
+        "runtime": {
+          "SpinnerUI.dll": {}
+        }
+      },
+      "Integrator/1.0.0": {
+        "runtime": {
+          "Integrator.dll": {}
+        }
+      },
+      "SpinnerSim/1.0.0": {
+        "dependencies": {
+          "Integrator": "1.0.0"
+        },
+        "runtime": {
+          "SpinnerSim.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SpinnerUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Integrator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SpinnerSim/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

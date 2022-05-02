@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpinnerUI", "SpinnerUI\SpinnerUI.csproj", "{3E2012C8-B720-4D41-B3B9-6A8DB4727562}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpinnerSim", "SpinnerSim\SpinnerSim.csproj", "{6173ECC3-0571-4BA5-A50E-76319EC25FE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Integrator", "Integrator\Integrator.csproj", "{65B46B90-9E79-4965-91C4-0D911D898DC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E2012C8-B720-4D41-B3B9-6A8DB4727562}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E2012C8-B720-4D41-B3B9-6A8DB4727562}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E2012C8-B720-4D41-B3B9-6A8DB4727562}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E2012C8-B720-4D41-B3B9-6A8DB4727562}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6173ECC3-0571-4BA5-A50E-76319EC25FE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6173ECC3-0571-4BA5-A50E-76319EC25FE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6173ECC3-0571-4BA5-A50E-76319EC25FE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6173ECC3-0571-4BA5-A50E-76319EC25FE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65B46B90-9E79-4965-91C4-0D911D898DC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65B46B90-9E79-4965-91C4-0D911D898DC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65B46B90-9E79-4965-91C4-0D911D898DC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65B46B90-9E79-4965-91C4-0D911D898DC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

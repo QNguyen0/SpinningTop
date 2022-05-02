@@ -1,0 +1,12 @@
+C:\Users\qn171\documents\mee484\testspinner\Integrator\bin\Debug\net6.0\Integrator.deps.json
+C:\Users\qn171\documents\mee484\testspinner\Integrator\bin\Debug\net6.0\Integrator.dll
+C:\Users\qn171\documents\mee484\testspinner\Integrator\bin\Debug\net6.0\ref\Integrator.dll
+C:\Users\qn171\documents\mee484\testspinner\Integrator\bin\Debug\net6.0\Integrator.pdb
+C:\Users\qn171\documents\mee484\testspinner\Integrator\obj\Debug\net6.0\Integrator.csproj.AssemblyReference.cache
+C:\Users\qn171\documents\mee484\testspinner\Integrator\obj\Debug\net6.0\Integrator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qn171\documents\mee484\testspinner\Integrator\obj\Debug\net6.0\Integrator.AssemblyInfoInputs.cache
+C:\Users\qn171\documents\mee484\testspinner\Integrator\obj\Debug\net6.0\Integrator.AssemblyInfo.cs
+C:\Users\qn171\documents\mee484\testspinner\Integrator\obj\Debug\net6.0\Integrator.csproj.CoreCompileInputs.cache
+C:\Users\qn171\documents\mee484\testspinner\Integrator\obj\Debug\net6.0\Integrator.dll
+C:\Users\qn171\documents\mee484\testspinner\Integrator\obj\Debug\net6.0\ref\Integrator.dll
+C:\Users\qn171\documents\mee484\testspinner\Integrator\obj\Debug\net6.0\Integrator.pdb
